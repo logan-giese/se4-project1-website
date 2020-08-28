@@ -44,6 +44,14 @@ body {
     color: #33323D;
     background-color: #f8f8f8;
 }
+#navbar>.selected {
+    color: #33323D;
+    background-color: #f8f8f8;
+}
+#navbar>.selected:hover {
+    color: #33323D;
+    background-color: #f8f8f8;
+}
 #content {
     padding: 12px 20px;
 }
