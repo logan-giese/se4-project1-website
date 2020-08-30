@@ -21,6 +21,9 @@ table, th, td {
 th, td {
     padding: 6px;
 }
+th {
+    background-color: #e8e8e8;
+}
 
 /* Specific style components */
 #header {
